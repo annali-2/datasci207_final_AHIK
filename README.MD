@@ -9,4 +9,5 @@ Table of Contents:
   - linear_regression_and_FFNN.ipynb
   - RNN_final_model.ipynb
   - Decision_Trees_and_Final_Random_Forest_Regression.ipynb (contains Gradient Boosted Regression and XGBoost as well)
-- Slide deck: d207_final_presentation_slides.pdf
+- Final slide deck: final_presentation.pdf
+- Baseline slide deck: baseline_presentation.pdf
