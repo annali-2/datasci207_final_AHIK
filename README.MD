@@ -8,7 +8,5 @@ Table of Contents:
 - Models either have solo notebooks or are grouped with one other model. These notebooks include:
   - linear_regression_and_FFNN.ipynb
   - RNN_final_model.ipynb
-  - Gradient boosted regression TBD
-  - Decision_Trees_and_Final_Random_Forest_Regression.ipynb
-  - XGBoost TBD
+  - Decision_Trees_and_Final_Random_Forest_Regression.ipynb (contains Gradient Boosted Regression and XGBoost as well)
 - Slide deck: d207_final_presentation_slides.pdf
